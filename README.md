@@ -4,7 +4,7 @@ This repository contains a series of company valuations using the Discounted Cas
 
 ## Projects
 1. [Apple Inc. (AAPL)](./Apple/)
-2. 
+
 Each folder contains the following:
 - **Data**: Raw financial statements and industry data used for analysis.
 - **PDF Reports**: Comprehensive analysis and valuation results.
